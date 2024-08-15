@@ -8,7 +8,7 @@ This project demonstrates a basic example of synchronous inter-service communica
 - **Inventory Service**: Manages the inventory of products.
 - **Product Service**: Manages product details.
 
-## Overview
+## Overviews
 
 ### How It Works
 
